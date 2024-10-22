@@ -14,11 +14,11 @@ const Hero = () => {
           I build things on the web
         </h1> 
         <p className="pr-10 pt-4 text-slate-400 w-[600px] text-sm sm:text-lg">
-          I love using the latest programming languages and technologies to bring ideas to life and create innovative digital experiences. Let's build something awesome!
+          I love using the latest programming languages and technologies to bring ideas to life and create innovative digital experiences. Let&apos;s build something awesome!
         </p> 
         <div className="relative mt-5 p-[1px] bg-slate-700 rounded-md w-max">
           <a href={`mailto:Altahiersaleh@gmail.com`} aria-label="Email" className="relative text-slate-400 border border-slate-700 bg-slate-950 px-6 py-3 rounded-md inline-block transition-transform duration-300 ease-in-out transform hover:translate-x-1 hover:translate-y-1">
-            Let's get in touch
+            Let&apos;s get in touch
           </a>
         </div>
       </div>

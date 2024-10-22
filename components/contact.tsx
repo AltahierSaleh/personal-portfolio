@@ -7,7 +7,7 @@ const Contact = () => {
         Want To Get In Touch. 
       </h1>
       <p className="text-slate-400 text-md font-semibold pb-5 text-balance px-[30%]">
-        Im currently looking for any opportunity you can give me so if you're interested in my work and skills, or even if you just want to ask me anything, don't hesitate to shoot me an email, my inbox is always open.
+        Im currently looking for any opportunity you can give me so if you&apos;re interested in my work and skills, or even if you just want to ask me anything, don&apos;t hesitate to shoot me an email, my inbox is always open.
       </p>
       <div className="flex justify-center">
         <div className="relative mt-2 p-[1px] bg-slate-700 rounded-md w-max">

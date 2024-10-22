@@ -39,10 +39,10 @@ export function About() {
         </WobbleCard>
         <WobbleCard cottainerClassName="col-span-1 min-h-[300px] bg-slate-950">
           <h2 className="max-w-80 text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-slate-300">
-            Hobby's
+            Hobbies
           </h2>
           <p className="mt-4 max-w-[26rem] text-left text-base/6 text-slate-400">
-            In my free time, I love diving into hobbies that keep me inspired. Whether it's exploring new tech trends, playing video games, or working on personal coding projects, I enjoy staying connected to the world of technology.
+            In my free time, I love diving into hobbies that keep me inspired. Whether it&apos;s exploring new tech trends, playing video games, or working on personal coding projects, I enjoy staying connected to the world of technology.
           </p>
         </WobbleCard>
         <WobbleCard containerClassName="col-span-1 lg:col-span-3 bg-slate-950 min-h-[500px] lg:min-h-[600px] xl:min-h-[300px]">
