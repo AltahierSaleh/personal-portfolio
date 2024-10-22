@@ -9,9 +9,9 @@ const Footer = () => {
           <span className="text-sm sm:text-center text-slate-400">
             Designed & Built by Altahier Saleh
           </span>
-          <ul className="flex flex-wrap gap-3 items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
+          <ul className="flex flex-wrap gap-3 items-center mt-3 text-sm font-medium sm:mt-0 text-slate-400">
             <li>
-                <a href="https://github.com/AltahierSaleh" aria-label="GitHub Profile" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-200 hover:translate-y-1">
+                <a href="https://github.com/AltahierSaleh" aria-label="GitHub Profile" target="_blank" rel="noopener noreferrer" className="text-slate-400">
                   <IconBrandGithubFilled size="20" />
                 </a>
             </li>
