@@ -1,6 +1,5 @@
 import React from 'react'
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, AlertDialogTrigger, } from "@/components/ui/alert"
-import Particles from "@/components/ui/particles";
+import { AlertDialog, AlertDialogCancel, AlertDialogContent, AlertDialogTrigger, } from "@/components/ui/alert"
 
 const Languages = () => {
   return (
