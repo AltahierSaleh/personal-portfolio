@@ -67,7 +67,7 @@ export const FloatingNav = ({
         <a href="#home" className="text-sky-200 hover:text-slate-400" >
           <IconAlt size={30} />
         </a>
-        {navItems.map((navItem: any, idx: number) => (
+        {navItems.map((navItem: 1, idx: number) => (
           <Link
             key={`link=${idx}`}
             href={navItem.link}
