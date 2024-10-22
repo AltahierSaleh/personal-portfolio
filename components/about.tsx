@@ -37,7 +37,7 @@ export function About() {
             className="absolute -right-4 lg:-right-[40%] filter -bottom-10 object-contain rounded-md"
           />
         </WobbleCard>
-        <WobbleCard cottainerClassName="col-span-1 min-h-[300px] bg-slate-950">
+        <WobbleCard containerClassName="col-span-1 min-h-[300px] bg-slate-950">
           <h2 className="max-w-80 text-left text-balance text-base md:text-xl lg:text-3xl font-semibold tracking-[-0.015em] text-slate-300">
             Hobbies
           </h2>
