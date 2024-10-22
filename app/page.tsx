@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { FloatingNav } from "@/components/ui/floating-navbar";
-import { IconHome, IconMessage, IconUser } from "@tabler/icons-react";
 import { navItems } from "@/data/index"
 import Hero from "@/components/hero";
 import { About } from "@/components/about";

@@ -1,8 +1,6 @@
-import React, { useState } from "react";
 import { HoverEffect } from "@/components/ui/card-hover-effect";
 import { projects } from "@/data/index";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip"
-import { Button } from "@/components/ui/button"
 
 const Projects = () => {
   return (

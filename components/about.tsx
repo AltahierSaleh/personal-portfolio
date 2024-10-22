@@ -3,7 +3,6 @@ import Image from "next/image";
 import React from "react";
 import { WobbleCard } from "@/components/ui/wobble-card";
 import { Orbit } from "@/components/ui/techorbit/orbit";
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle, AlertDialogTrigger, } from "@/components/ui/alert"
 import Languages from "@/components/ui/languages";
 
 export function About() {
