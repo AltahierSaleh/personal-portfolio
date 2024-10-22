@@ -20,16 +20,16 @@ const Languages = () => {
                 </h1>
                 <ul className="text-slate-400">
                   <li>
-                    <p>> Javascript</p>
+                    <p>&gt; Javascript</p>
                   </li>
                   <li>
-                    <p>> Python</p>
+                    <p>&gt; Python</p>
                   </li>
                   <li>
-                    <p>> React js</p>
+                    <p>&gt; React js</p>
                   </li>
                   <li>
-                    <p>> C</p>
+                    <p>&gt; C</p>
                   </li>
                 </ul>
               </div>
@@ -39,16 +39,16 @@ const Languages = () => {
                 </h1>
                 <ul className="text-slate-400">
                   <li>
-                    <p>> Framer Motion</p>
+                    <p>&gt; Framer Motion</p>
                   </li>
                   <li>
-                    <p>> Figma</p>
+                    <p>&gt; Figma</p>
                   </li>
                   <li>
-                    <p>> Tailwind CSS</p>
+                    <p>&gt; Tailwind CSS</p>
                   </li>
                   <li>
-                    <p>> Git</p>
+                    <p>&gt; Git</p>
                   </li>
                 </ul>
               </div> 
